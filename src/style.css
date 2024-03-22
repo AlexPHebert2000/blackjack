@@ -1,0 +1,15 @@
+.card {
+  font-size: 100px;
+  margin: 0;
+}
+
+.hand{
+  display: flex;
+  flex-direction: row;
+  justify-content: safe;
+}
+
+.hand > h1 {
+  margin-right: 3vw;
+}
+
